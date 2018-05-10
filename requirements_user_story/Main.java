@@ -1,5 +1,3 @@
-package requirements_user_story;
-
 /* USER-STORY
  * - является первичной формой описания требований заказчика
  *
@@ -12,6 +10,3 @@ package requirements_user_story;
  *
  * - напр.:
  *      - КАК пользователь Я ХОЧУ записывать мысли и идеи, ЧТОБЫ в дальнейшем ими пользоваться */
-
-public class Main {
-}

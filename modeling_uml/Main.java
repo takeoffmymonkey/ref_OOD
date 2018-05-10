@@ -1,5 +1,3 @@
-package modeling_uml;
-
 /* UML - UNIFIED MODELING LANGUAGE
  * - язык для описания моделей из проблемной области
  *
@@ -146,6 +144,3 @@ package modeling_uml;
  * - позволяет:
  *      - быстрее понять логику кода
  *      - определить незапланированные условия */
-
-public class Main {
-}

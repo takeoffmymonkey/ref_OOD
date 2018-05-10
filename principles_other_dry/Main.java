@@ -1,5 +1,3 @@
-package principles_other_dry;
-
 /* DON'T REPEAT YOURSELF
  * - вынесение повторяющегося кода в единый модуль:
  *      - 1 общий метод
@@ -11,6 +9,3 @@ package principles_other_dry;
  * - позволяет переиспользовать код
  *
  * - облегчает поддержку кода */
-
-public class Main {
-}

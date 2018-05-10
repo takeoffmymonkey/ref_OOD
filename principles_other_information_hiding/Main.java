@@ -1,5 +1,3 @@
-package principles_other_information_hiding;
-
 /* ДОСТУП ДОЛЖЕН ПРЕДОСТАВЛЯТЬСЯ ТОЛЬКО К ТОМУ, ЧТО НЕОБХОДИМО ДЛЯ РАБОТЫ */
 
 
@@ -9,6 +7,3 @@ package principles_other_information_hiding;
  *      - важны для работы самого класса
  * - детали реализации
  *      - т.е. то, что потенциально может измениться */
-
-public class Main {
-}

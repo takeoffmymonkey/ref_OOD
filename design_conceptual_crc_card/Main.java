@@ -1,5 +1,3 @@
-package design_conceptual_crc_card;
-
 /* CLASS-RESPONSIBILITY-COLLABORATOR карта
  * - быстрый способ описания моделей в проблемной области
  *
@@ -21,7 +19,3 @@ package design_conceptual_crc_card;
  *          - хранение информации
  *      - другие компоненты:
  *          - DataContainer */
-
-
-public class Main {
-}
